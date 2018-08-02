@@ -1,3 +1,3 @@
 #!/bin/bash
 cd .git/hooks
-cp -P ../../hooks/* .
+cp --symbolic-link ../../hooks/* .
