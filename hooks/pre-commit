@@ -17,7 +17,7 @@ def strip_url(s):
 
 def validate_ordering():
     ret_val = 0
-    for f_name in ['README.md', 'github.md']:
+    for f_name in ['README.md']:
         if not os.path.exists(f_name):
             print(' [-] Aborting commit: expecting %s to exist'%f_name)
             ret_val = 1
