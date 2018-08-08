@@ -2,10 +2,5 @@ Adds company name to the nz-ember-sites repo.
 
 Links added:
 - the NZ site running Ember
-- whether the site is (Internal/External) eg. web facing or not
+- whether the site is (Internal) eg. if not web facing
 - the site link
-
-Notes:
-Something you might think is important you can write here.
-
-> (e.g. I hope you're having a great day)

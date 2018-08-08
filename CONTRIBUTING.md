@@ -1,6 +1,6 @@
 Contribution Guidelines
 =======================
 
+Fork the repo.
 Keep the lists sorted alphabetically.
-
-There are no more guidelines (for now) :)
+Pull request.
