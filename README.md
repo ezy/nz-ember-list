@@ -13,4 +13,5 @@ Sorted alphabetically by company name. To add yours, please see [the contributin
 - My Work Sites https://myworksites.co.nz
 - Real Estate NZ https://www.realestate.co.nz/
 - ThreeNow https://www.threenow.co.nz/
+- Travis CI https://travis-ci.org/
 - TVNZ Ondemand https://www.tvnz.co.nz/shows
