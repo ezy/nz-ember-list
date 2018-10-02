@@ -5,9 +5,9 @@ Sorted alphabetically by company name. To add yours, please see [the contributin
 
 - ANZ (Internal) https://anz.co.nz/
 - Co-op bank https://www.co-operativebank.co.nz/
-- Internet NZ forum https://community.internetnz.nz/
 - Cruise guide http://www.cruiseguide.co.nz/marine-traffic/
 - Haka Tours https://hakatours.com/
+- Internet NZ forum https://community.internetnz.nz/
 - Kordia (Internal) https://www.kordia.co.nz/
 - Ministry of Social Development https://my.msd.co.nz/
 - Mobile Studylink website https://my.studylink.govt.nz/mystudylink/logon_mobile.html
