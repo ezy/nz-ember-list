@@ -1,4 +1,4 @@
-New Zealand Orgs who use Ember
+New Zealand Ember List
 ====================================
 
 Sorted alphabetically by company name. To add yours, please see [the contributing guidelines](CONTRIBUTING.md).
