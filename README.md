@@ -10,7 +10,7 @@ Sorted alphabetically by company name. To add yours, please see [the contributin
 - Internet NZ forum (2.13.3) https://community.internetnz.nz/
 - Kordia (Internal) https://www.kordia.co.nz/
 - Metro (1.5.1) http://metroinfo.co.nz
-- Ministry of Social Development (2.18.0) https://my.msd.co.nz/
+- Ministry of Social Development (2.18.0) https://my.msd.govt.nz/
 - Mobile Studylink website https://my.studylink.govt.nz/mystudylink/logon_mobile.html
 - My Work Sites (2.18.2) https://myworksites.co.nz
 - NZ Farms (2.14.1) http://nzfarms.co.nz
