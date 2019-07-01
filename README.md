@@ -13,7 +13,7 @@ ____
 * Metro (1.5.1) http://metroinfo.co.nz
 * Ministry of Social Development (3.8.1) https://my.msd.govt.nz/
 * Mobile Studylink website https://my.studylink.govt.nz/mystudylink/logonmobile.html
-* My Work Sites (2.18.2) (2.18.2) https://myworksites.co.nz
+* My Work Sites (2.18.2) https://myworksites.co.nz
 * NZ Farms (2.14.1) http://nzfarms.co.nz
 * Real Estate NZ (2.14.1) https://www.realestate.co.nz/
 * ThreeNow (2.5.1) https://www.threenow.co.nz/
