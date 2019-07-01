@@ -4,8 +4,6 @@ New Zealand Ember List
 Sorted alphabetically by company name. To add yours, please see [the contributing guidelines](CONTRIBUTING.md).
 
 ____
-
-* TVNZ Ondemand (2.18.0) https://www.tvnz.co.nz/
 * ANZ (Internal) https://anz.co.nz/
 * Co-op bank (3.8.0) https://www.co-operativebank.co.nz
 * Cruise guide (1.13.3) http://www.cruiseguide.co.nz/marine-traffic
@@ -20,4 +18,5 @@ ____
 * Real Estate NZ (2.14.1) https://www.realestate.co.nz/
 * ThreeNow (2.5.1) https://www.threenow.co.nz/
 * Travis CI (3.7.3) https://travis-ci.org/
+* TVNZ Ondemand (2.18.0) https://www.tvnz.co.nz/
 ____

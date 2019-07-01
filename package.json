@@ -7,7 +7,9 @@
     "commit-check": "node ./hooks/commit-check.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "pre-commit": ["commit-check"],
+  "pre-commit": [
+    "commit-check"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ezy/nz-ember-list.git"
@@ -17,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ezy/nz-ember-list/issues"
   },
-  "homepage": "https://github.com/ezy/nz-ember-list#readme"
+  "homepage": "https://github.com/ezy/nz-ember-list#readme",
+  "devDependencies": {
+    "pre-commit": "^1.2.2"
+  }
 }
