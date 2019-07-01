@@ -1,0 +1,21 @@
+{
+  "name": "nz-ember-list",
+  "version": "1.0.0",
+  "description": "A list of NZ or NZ affiliated sites that run Ember",
+  "main": "README.md",
+  "scripts": {
+    "commit-check": "node ./hooks/commit-check.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "pre-commit": ["commit-check"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezy/nz-ember-list.git"
+  },
+  "author": "Ezy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezy/nz-ember-list/issues"
+  },
+  "homepage": "https://github.com/ezy/nz-ember-list#readme"
+}
